@@ -1,4 +1,4 @@
-# Trevor Shelton's UX Journal
+# Trevor's UX Journal
 
 ![User interface](/assets/selfie.jpg)
 
