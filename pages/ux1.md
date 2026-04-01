@@ -2,6 +2,8 @@
 
 ## Intro
 
+![](/assets/ux1/1.png)
+
 ## Process
 
 ## Conclusion
