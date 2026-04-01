@@ -2,7 +2,7 @@
 
 ## Intro
 
-![1](/assets/ux1/1.png)
+![1](/../assets/ux1/1.png)
 
 ## Process
 
